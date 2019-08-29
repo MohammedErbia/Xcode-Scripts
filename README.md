@@ -15,6 +15,11 @@ Run script file from Xcode with custom shortcut without opening terminal.
 8. Choose your downloaded ```script file```
 9. Exit ```preferences``` and enjoy your script.
 
+## Instructions
+
+[Youtube video](https://www.youtube.com/watch?v=-QYAX05UhMI)
+
+
 ## Usage
 
 ``` hit your shortcut it's that simple```
