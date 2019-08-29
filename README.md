@@ -15,10 +15,6 @@ Run script file from Xcode with custom shortcut without opening terminal.
 8. Choose your downloaded ```script file```
 9. Exit ```preferences``` and enjoy your script.
 
-```bash
-pip install foobar
-```
-
 ## Usage
 
 ``` hit your shortcut it's that simple```
