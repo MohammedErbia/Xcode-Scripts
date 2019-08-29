@@ -23,9 +23,18 @@ Run script file from Xcode with custom shortcut without opening terminal.
 
 
 
-## Usage
+## Example
 
-``` hit your shortcut it's that simple```
+```install cocoapods from Xcode with just hitting a shortcut```
+
+1. Download [podinstall-script.sh](https://github.com/AhmedMohamedAllam/Xcode-Scripts/blob/master/Scripts/podinstall-script.sh)
+
+2. Move this file to your App root folder
+
+3. follow the ```upper``` instructions from step ```3```
+
+4. Enjoy your daily routine with just a shortcut. 🤟💪 
+
 
 ## Contributing
 You can add your own script files to share with others.
