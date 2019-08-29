@@ -28,6 +28,7 @@ Run script file from Xcode with custom shortcut without opening terminal.
 ``` hit your shortcut it's that simple```
 
 ## Contributing
+You can add your own script files to share with others.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
