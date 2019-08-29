@@ -29,7 +29,7 @@ Run script file from Xcode with custom shortcut without opening terminal.
 
 1. Download [podinstall-script.sh](https://github.com/AhmedMohamedAllam/Xcode-Scripts/blob/master/Scripts/podinstall-script.sh)
 
-2. Move this file to your App root folder
+2. Move the downloaded file to your App root folder ```example: ~/Desktop/MyApp```
 
 3. follow the ```upper``` instructions from step ```3```
 
