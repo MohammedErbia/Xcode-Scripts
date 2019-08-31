@@ -4,6 +4,8 @@
 pwd=$(pwd)
 osascript  <<EOF
 tell app "Terminal"
-do script "cd $pwd; pod install"
+ if not (exists window 1) then reopen
+ activate
+ do script "cd $pwd; pod install" in window 1
 end tell
 EOF
