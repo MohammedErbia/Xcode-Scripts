@@ -1,0 +1,14 @@
+#! /bin/bash
+# Script to open terminal and install cocoapods
+
+pwd=$(pwd)
+osascript << EOF
+tell app "Terminal"
+if not (exists window 1) then reopen
+activate
+do script "cd $pwd; pod init" in window 1
+do script "cd $pwd; open -t Podfile" in window 1
+do script "cd $pwd; pod install" in window 1
+do script "cd $pwd; open $pwd;" in window 1
+end tell
+EOF
